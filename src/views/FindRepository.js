@@ -1,7 +1,10 @@
 import React from 'react';
+import Search from '../components/Search';
 
 const FindRepository = () => (
-    <div></div>
+    <div>
+        <Search />
+    </div>
 );
 
 export default FindRepository;
